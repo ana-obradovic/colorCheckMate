@@ -80,7 +80,7 @@ class MainActivity : AppCompatActivity() {
 
 
     fun countdown(){
-        var duration:Long=TimeUnit.SECONDS.toMillis(15)
+        var duration:Long=TimeUnit.SECONDS.toMillis(5)
 
 
         object :CountDownTimer(duration, 1000) {

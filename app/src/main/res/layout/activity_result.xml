@@ -85,17 +85,13 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
-            android:textSize="45sp"
-            android:text="PERFORMANCE"
-            android:textStyle="bold|italic"
             android:layout_marginTop="260dp"
-            android:textColor="@color/black">
+            android:text="PERFORMANCE"
+            android:textColor="@color/black"
+            android:textSize="45sp"
+            android:textStyle="bold|italic">
 
         </TextView>
-
-
-
-
 
 
     </androidx.cardview.widget.CardView>
