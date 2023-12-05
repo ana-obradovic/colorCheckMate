@@ -53,11 +53,11 @@ class MainActivity : AppCompatActivity() {
 
 
         questionsList= ArrayList()
-        questionsList.add(QuestionModel("What is actually electricity?","A flow of water","A flow of air","A flow of electrons"," A flow of atoms","A flow of electrons"))
-        questionsList.add(QuestionModel("What is the speed of sound?","120 km/h","1,200 km/h","400 km/h","700 km/h","1,200 km/h"))
-        questionsList.add(QuestionModel("What is the main component of the sun?","Liquid lava","Gas","Molten iron","Rock","Gas"))
-        questionsList.add(QuestionModel("Which of the following animals can run the fastest?","Cheetah","Leopard","Tiger","Lion","Cheetah"))
-        questionsList.add(QuestionModel("Which company is known for publishing the Mario video game?","Xbox","Nintendo","SEGA","Electronic Arts","Nintendo"))
+        questionsList.add(QuestionModel("What number do you see in the circle?","4","7","1"," 8","7"))
+        questionsList.add(QuestionModel("What number do you see in the circle?","3","6","5","4","3"))
+        questionsList.add(QuestionModel("What number do you see in the circle?","0","4","7","3","4"))
+        questionsList.add(QuestionModel("What number do you see in the circle?","8","0","6","7","0"))
+        questionsList.add(QuestionModel("What number do you see in the circle?","1","5","7","9","9"))
 
 
         //questionsList.shuffle()
