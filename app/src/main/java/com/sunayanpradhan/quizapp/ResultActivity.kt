@@ -42,11 +42,11 @@ class ResultActivity : AppCompatActivity() {
 
                 }
                 percentage>=100 -> {
-                    performance.text="EXCELLENT"
+                    performance.text="Congratulations! You are not colorblind!"
                     output.background=resources.getDrawable(R.drawable.right_bg)
                 }
                 percentage<50 -> {
-                    performance.text="POOR"
+                    performance.text="Unfortunately, you may be colorblind :("
                     output.background=resources.getDrawable(R.drawable.wrong_bg)
                 }
             }
