@@ -6,3 +6,4 @@ data class QuestionModel(val question:String,
                          val option3:String,
                          val option4:String,
                          val answer:String)
+
