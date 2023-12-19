@@ -6,3 +6,7 @@
         android:width="2dp"></stroke>
 
 </shape>
+<ImageView
+    android: layout_width="414dp"
+    android: layout_height="896dp"
+    android:src="@drawable/What number is represented in the colors.png"
